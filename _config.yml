@@ -3,10 +3,11 @@ name: 蛋花的技术栈
 email: zthreefires@gmail.com
 author: sanhuo zhang
 url: https://zthreefires.github.io/
+#个人简历地址
 resume_site: https://zthreefires.github.io/
 github: https://github.com/zthreefires/
 baseurl: ""
-description: AI + IoT
+description: IoT + AI
 meta_description: 
 motto: 
 banner: 
