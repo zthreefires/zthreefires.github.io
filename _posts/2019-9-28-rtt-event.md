@@ -3,7 +3,7 @@ layout: post
 #标题配置
 title:  RT-thread学习笔记（五）—— 事件
 #时间配置
-date:   2019-09-27 10:00:00 +0800
+date:   2019-09-27 21:00:00 +0800
 #大类配置
 categories: embeded
 #小类配置
