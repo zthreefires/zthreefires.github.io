@@ -1,7 +1,7 @@
 ---
 layout: post
 #标题配置
-title:  RT-thread学习笔记——线程管理
+title:  RT-thread学习笔记（一）——线程管理
 #时间配置
 date:   2019-09-27 10:00:00 +0800
 #大类配置
